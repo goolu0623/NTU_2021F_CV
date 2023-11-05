@@ -1,0 +1,7 @@
+*.zip
+# *.bmp
+*.png
+*venv/
+*.docx
+*report
+*idea/
